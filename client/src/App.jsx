@@ -1,5 +1,5 @@
 import {Navbar, Welcome, Footer, Services, Transactions, About} from './components';
-import { TransactionProvider } from './context/TransactionContext';
+import { TransactionProvider } from './context/Transaction-Context';
 
 const App = () => {
   return (
