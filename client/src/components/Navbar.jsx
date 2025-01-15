@@ -3,7 +3,7 @@ import { HiMenuAlt4 } from "react-icons/hi";
 import { AiOutlineClose } from "react-icons/ai";
 
 // import logo from "../../images/logo-white.svg";
-import logo from "../Images/logo-white.svg";
+import logo from "../../images/logo-white.svg";
 
 const NavBarItem = ({ title, classprops }) => (
     <li className={`mx-4 cursor-pointer ${classprops}`}>{title}</li>
