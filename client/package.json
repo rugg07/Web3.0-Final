@@ -2,6 +2,7 @@
   "name": "crypto",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://rugg07.github.io/Web3.0-Final",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
@@ -11,7 +12,6 @@
   },
   "dependencies": {
     "ethers": "^6.13.5",
-    "gh-pages": "^6.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-icons": "^4.3.1"
@@ -22,6 +22,7 @@
     "@vitejs/plugin-react": "^1.3.0",
     "autoprefixer": "^10.4.4",
     "file-loader": "^6.2.0",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.12",
     "tailwindcss": "^3.0.24",
     "vite": "^6.0.7"

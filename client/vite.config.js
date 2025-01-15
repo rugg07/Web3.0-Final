@@ -11,5 +11,8 @@ import path from 'path'
 
 export default defineConfig({
   plugins: [react()],
-  base: "/my-project",
+  base: '/Web3.0-Final/',
+  build: {
+    outDir: 'dist'
+  }
 })
