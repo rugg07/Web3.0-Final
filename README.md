@@ -2,7 +2,8 @@
 
 Welcome to the **Web3.0 Final Project** repository. This project demonstrates the integration of a React-based client application with Ethereum smart contracts, utilizing modern web development and blockchain technologies.
 
-![App Screenshot] (https://v0-portflio-swvezkk4ikp.vercel.app/Web3.0.png)
+![App Screenshot](https://v0-portflio-swvezkk4ikp.vercel.app/Web3.0.png)
+
 ---
 
 ## Table of Contents
